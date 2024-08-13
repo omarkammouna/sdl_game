@@ -25,7 +25,7 @@ This is a simple Tic-Tac-Toe game implemented using SDL (Simple DirectMedia Laye
 
 2. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/sdl-tic-tac-toe.git
+    git clone https://github.com/omarkammouna/sdl-tic-tac-toe.git
     cd sdl-tic-tac-toe
     ```
 
